@@ -1,0 +1,16 @@
+.Detail {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    border-bottom: 1px solid #ddd;
+    text-decoration: none;
+}
+
+.Detail__title {
+    font-weight: bold;
+}
+
+.Detail__link {
+    text-decoration: none;
+    color: #000;
+}
